@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I`m Hadas
+Im a Bar-Ilan University graduate with BSc in Computer Engineering 
+
+My skills: 
+
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,matlab)](https://skillicons.dev)
+
+<!-- [![Hadasdah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hadasdah)](https://github.com/hadasdah/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadasdah)](https://github.com/hadasdah/github-readme-stats) -->
+
 
 <!--
 **Hadasdah/Hadasdah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
