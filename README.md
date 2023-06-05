@@ -1,5 +1,5 @@
 ### Hi there 👋 I`m Hadas
-Im a Bar-Ilan University graduate with BSc in Computer Engineering 
+Im a Computer Engineering Graduate from Bar Ilan University.
 
 My skills: 
 
